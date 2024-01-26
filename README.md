@@ -1,2 +1,0 @@
-# pizza
-Class work repo
