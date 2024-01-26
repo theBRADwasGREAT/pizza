@@ -6,7 +6,7 @@ This is a website created for course work in web developement. It is describing 
 
 * [github profile] (https://github.com/thebradwasgreat)
 
-##Special thanks
+## Special thanks
 
-# I would like to thank jennythinkful for providing the code and content of this project.
+I would like to thank jennythinkful for providing the code and content of this project.
 
